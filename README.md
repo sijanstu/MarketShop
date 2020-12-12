@@ -4,7 +4,7 @@ Multipurpose E-Commerce HTML5 Responsive Template
 
 ## LIVE PREVIEW:
 
-https://amibappy.github.io/MarketShop/
+https://sijanbhandary.com.np/MarketShop/
 
 
 
